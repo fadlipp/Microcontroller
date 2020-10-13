@@ -1,4 +1,4 @@
-//Simulasi Input Digital Arduino: Input Sensor Alkohol dan Output LED serta LCDAssignment
+//Simulasi Input Digital Arduino: Input Sensor Alkohol dan Output LED serta LCD Assignment
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(13,12,11,10,9,8);
 int MQ=3;
